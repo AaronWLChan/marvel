@@ -2,7 +2,7 @@
     <div class="container mx-auto px-4 ">
 
         
-        <div class="flex flex-col p-8  rounded-xl shadow-xl">
+        <div class="flex flex-col p-8">
             <p class="title">Characters</p>
             
             <input 

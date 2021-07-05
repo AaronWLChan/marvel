@@ -1,7 +1,7 @@
 <template>
     <div class="container mx-auto px-4 ">
 
-        <div class="flex flex-col p-8 rounded-xl shadow-xl text-white">
+        <div class="flex flex-col p-8 text-white">
             <p class="title">Marvel Comics</p>
             <p class="text-lg mb-8 font-medium">Explore Marvel Characters and Comics.</p>
 
